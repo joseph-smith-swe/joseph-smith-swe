@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome! 👋
 
 <!--
 **joseph-smith-swe/joseph-smith-swe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
