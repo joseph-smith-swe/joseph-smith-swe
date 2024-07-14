@@ -1,4 +1,6 @@
-## Welcome! 👋
+![New Banner 3](https://github.com/user-attachments/assets/6cc21b80-f5c8-4336-af41-853ef13918fa)
+---
+
 
 <!--
 **joseph-smith-swe/joseph-smith-swe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
