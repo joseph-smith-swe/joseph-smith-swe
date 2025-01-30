@@ -1,6 +1,6 @@
 ## Hello & welcome! :wave:
 
-## Announcement: Currently acquiring demanding full-time IT training. My development projects will continue as time permits. Thank you.
+Announcement: Currently acquiring demanding full-time IT training. My development projects will continue as time permits. Thank you.
 
 
 <!--
