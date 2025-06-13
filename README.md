@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="https://www.canva.com/design/DAGDcnGcCLI/sJzZq82N3X4skAn_kOLMMA/edit?utm_content=DAGDcnGcCLI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"  />
-</div>
+
 
 ###
 
