@@ -1,6 +1,10 @@
-<h3 align="left">Hello & Welcome.</h3>
+<div align="center">
+  <img height="200" src="https://www.canva.com/design/DAGDcnGcCLI/sJzZq82N3X4skAn_kOLMMA/edit?utm_content=DAGDcnGcCLI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"  />
+</div>
 
----
+###
+
+<h3 align="left">Hello & Welcome.<br><br>---</h3>
 
 ###
 
@@ -8,7 +12,7 @@
 
 ###
 
-<h3 align="left">:sunglasses: About Me:</h3>
+<h3 align="left">:sunglasses: About Me:<br><br>---</h3>
 
 ###
 
@@ -16,7 +20,7 @@
 
 ###
 
-<h3 align="left">:wrench: My Tech Stacks:</h3>
+<h3 align="left">:wrench: My Tech Stacks:<br><br>---</h3>
 
 ###
 
@@ -57,12 +61,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="webflow logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40" alt="stackoverflow logo"  />
 </div>
 
 ###
 
-<h3 align="left">Profile Stats:</h3>
+<h3 align="left">Profile Stats:<br><br>---</h3>
 
 ###
 
@@ -73,7 +79,7 @@
 
 ###
 
-<h3 align="left">:point_right: Let's Connect!</h3>
+<h3 align="left">:point_right: Let's Connect!<br><br>---</h3>
 
 ###
 
