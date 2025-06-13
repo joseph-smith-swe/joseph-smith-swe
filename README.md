@@ -1,8 +1,6 @@
+<h3 align="left">Hello & Welcome.</h3>
 
-
-###
-
-<h3 align="left">Hello & Welcome.<br><br>---</h3>
+---
 
 ###
 
@@ -10,7 +8,9 @@
 
 ###
 
-<h3 align="left">:sunglasses: About Me:<br><br>---</h3>
+<h3 align="left">:sunglasses: About Me:</h3>
+
+---
 
 ###
 
@@ -18,7 +18,9 @@
 
 ###
 
-<h3 align="left">:wrench: My Tech Stacks:<br><br>---</h3>
+<h3 align="left">:wrench: My Tech Stacks:</h3>
+
+---
 
 ###
 
@@ -66,7 +68,9 @@
 
 ###
 
-<h3 align="left">Profile Stats:<br><br>---</h3>
+<h3 align="left">Profile Stats:</h3>
+
+---
 
 ###
 
@@ -77,7 +81,9 @@
 
 ###
 
-<h3 align="left">:point_right: Let's Connect!<br><br>---</h3>
+<h3 align="left">:point_right: Let's Connect!</h3>
+
+---
 
 ###
 
